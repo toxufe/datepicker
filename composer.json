@@ -2,6 +2,7 @@
     "name": "toxufe/datetimepicker",
     "description": "Yii 2.0datepicker 小组件",
     "keywords": ["yii2","datepicker"],
+    "homepage": "https://github.com/toxufe/datepicker.git",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
