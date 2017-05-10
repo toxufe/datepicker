@@ -1,0 +1,20 @@
+{
+    "name": "toxufe/datetimepicker",
+    "description": "Yii 2.0datepicker 小组件",
+    "keywords": ["yii2","datepicker"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tongxiaodie",
+            "email": "723887809@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "toxufe\\datetimepicker\\": ""
+        }
+    }}
